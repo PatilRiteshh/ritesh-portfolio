@@ -21,7 +21,7 @@ export const PERSONAL_INFO = {
   interests: ['Backend Development', 'REST APIs', 'Databases', 'DSA', 'System Architecture'],
   socials: {
     github: 'https://github.com/PatilRiteshh',
-    linkedin: 'ttps://www.linkedin.com/in/ritesh-patil-5a1ba0297',
+    linkedin: 'https://www.linkedin.com/in/riteshpatil01/',
     email: 'mailto:rdp4957@gmail.com',
   },
 };
