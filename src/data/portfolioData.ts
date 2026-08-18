@@ -20,8 +20,8 @@ export const PERSONAL_INFO = {
   careerFocus: 'Java Full Stack Development / Backend Development',
   interests: ['Backend Development', 'REST APIs', 'Databases', 'DSA', 'System Architecture'],
   socials: {
-    github: 'https://github.com/rdp4957',
-    linkedin: 'https://www.linkedin.com/in/ritesh-patil-5a1ba0297',
+    github: 'https://github.com/PatilRiteshh',
+    linkedin: 'ttps://www.linkedin.com/in/ritesh-patil-5a1ba0297',
     email: 'mailto:rdp4957@gmail.com',
   },
 };
